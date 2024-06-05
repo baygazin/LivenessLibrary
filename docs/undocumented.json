@@ -1,0 +1,768 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 10,
+      "symbol": "ArrowsView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 12,
+      "symbol": "ArrowsView.stackView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 13,
+      "symbol": "ArrowsView.arrowViews",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 15,
+      "symbol": "ArrowsView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 23,
+      "symbol": "ArrowsView.addSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 28,
+      "symbol": "ArrowsView.setLayoutConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 49,
+      "symbol": "ArrowsView.stylize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 54,
+      "symbol": "ArrowsView.arrowView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 62,
+      "symbol": "ArrowsView.set(progress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/ArrowsView.swift",
+      "line": 78,
+      "symbol": "ArrowsView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKCameraController.swift",
+      "line": 47,
+      "symbol": "RBKCameraController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKCameraController.swift",
+      "line": 52,
+      "symbol": "RBKCameraController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKCameraController.swift",
+      "line": 58,
+      "symbol": "RBKCameraController.viewDidLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessCameraController.swift",
+      "line": 97,
+      "symbol": "RBKLivenessCameraController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessCameraController.swift",
+      "line": 170,
+      "symbol": "RBKLivenessCameraController.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessCameraController.swift",
+      "line": 561,
+      "symbol": "RBKLivenessCameraController.captureOutput(_:didOutput:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 12,
+      "symbol": "RBKLivenessManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 14,
+      "symbol": "RBKLivenessManager.RATIO",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 16,
+      "symbol": "RBKLivenessManager.Point",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 17,
+      "symbol": "RBKLivenessManager.Point.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 18,
+      "symbol": "RBKLivenessManager.Point.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 21,
+      "symbol": "RBKLivenessManager.getDistance(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 36,
+      "symbol": "RBKLivenessManager.checkOpenMouth(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 45,
+      "symbol": "RBKLivenessManager.getMouthHeight(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 61,
+      "symbol": "RBKLivenessManager.getLipTopHeight(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessManager.swift",
+      "line": 77,
+      "symbol": "RBKLivenessManager.getLipBottomHeight(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessMessage.swift",
+      "line": 10,
+      "symbol": "RBKLivenessMessage",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessMessage.swift",
+      "line": 12,
+      "symbol": "RBKLivenessMessage.succeeded",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessMessage.swift",
+      "line": 13,
+      "symbol": "RBKLivenessMessage.alert(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessMessage.swift",
+      "line": 14,
+      "symbol": "RBKLivenessMessage.pass(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessMessage.swift",
+      "line": 15,
+      "symbol": "RBKLivenessMessage.passed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/RBKLivenessMessage.swift",
+      "line": 16,
+      "symbol": "RBKLivenessMessage.imageCaptureError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/UIUtilities.swift",
+      "line": 13,
+      "symbol": "UIUtilities",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/UIUtilities.swift",
+      "line": 15,
+      "symbol": "UIUtilities.imageOrientation(fromDevicePosition:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Camera/UIUtilities.swift",
+      "line": 38,
+      "symbol": "UIUtilities.currentUIOrientation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/CameraFocusFrameView.swift",
+      "line": 10,
+      "symbol": "CameraFocusFrameView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/CameraFocusFrameView.swift",
+      "line": 12,
+      "symbol": "CameraFocusFrameView.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/CameraFocusFrameView.swift",
+      "line": 16,
+      "symbol": "CameraFocusFrameView.radius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/CameraFocusFrameView.swift",
+      "line": 20,
+      "symbol": "CameraFocusFrameView.thickness",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/CameraFocusFrameView.swift",
+      "line": 24,
+      "symbol": "CameraFocusFrameView.length",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/CameraFocusFrameView.swift",
+      "line": 28,
+      "symbol": "CameraFocusFrameView.lineCapStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/CameraFocusFrameView.swift",
+      "line": 32,
+      "symbol": "CameraFocusFrameView.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/LivenessInteractor.swift",
+      "line": 8,
+      "symbol": "LivenessInteractor",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/LivenessInteractor.swift",
+      "line": 10,
+      "symbol": "LivenessInteractor.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/LivenessInteractor.swift",
+      "line": 12,
+      "symbol": "LivenessInteractor.checkAccess()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/LivenessInteractor.swift",
+      "line": 24,
+      "symbol": "LivenessInteractor.getChallenges()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessDelegate.swift",
+      "line": 51,
+      "symbol": "RBKLivenessDelegate.liveness(didRecordVideoTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessDelegate.swift",
+      "line": 61,
+      "symbol": "RBKLivenessDelegate.liveness(didRecordVideoTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessResult.swift",
+      "line": 10,
+      "symbol": "RBKLivenessResult",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessResult.swift",
+      "line": 12,
+      "symbol": "RBKLivenessResult.action",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessResult.swift",
+      "line": 13,
+      "symbol": "RBKLivenessResult.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessResult.swift",
+      "line": 15,
+      "symbol": "RBKLivenessResult.init(action:image:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 93,
+      "symbol": "RBKLivenessViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 103,
+      "symbol": "RBKLivenessViewController.viewDidLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 109,
+      "symbol": "RBKLivenessViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 117,
+      "symbol": "RBKLivenessViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 122,
+      "symbol": "RBKLivenessViewController.addSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 134,
+      "symbol": "RBKLivenessViewController.setLayoutConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 195,
+      "symbol": "RBKLivenessViewController.stylize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 219,
+      "symbol": "RBKLivenessViewController.setActions()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 226,
+      "symbol": "RBKLivenessViewController.display(action:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 244,
+      "symbol": "RBKLivenessViewController.didPass(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 251,
+      "symbol": "RBKLivenessViewController.presentRestrictedAccessAlert()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RBKLivenessViewController.swift",
+      "line": 266,
+      "symbol": "RBKLivenessViewController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RightArrowView.swift",
+      "line": 10,
+      "symbol": "RightArrowView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RightArrowView.swift",
+      "line": 12,
+      "symbol": "RightArrowView.pathColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RightArrowView.swift",
+      "line": 16,
+      "symbol": "RightArrowView.circleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RightArrowView.swift",
+      "line": 20,
+      "symbol": "RightArrowView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RightArrowView.swift",
+      "line": 27,
+      "symbol": "RightArrowView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/RightArrowView.swift",
+      "line": 29,
+      "symbol": "RightArrowView.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/AccessData.swift",
+      "line": 10,
+      "symbol": "AccessData",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/AccessData.swift",
+      "line": 12,
+      "symbol": "AccessData.isExist",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 8,
+      "symbol": "BiometryConstant",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 10,
+      "symbol": "BiometryConstant.key",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 11,
+      "symbol": "BiometryConstant.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 13,
+      "symbol": "BiometryConstant.LivenessAction",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 15,
+      "symbol": "BiometryConstant.LivenessAction.SMILE_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 16,
+      "symbol": "BiometryConstant.LivenessAction.TURN_LEFT_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 17,
+      "symbol": "BiometryConstant.LivenessAction.TURN_RIGHT_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 18,
+      "symbol": "BiometryConstant.LivenessAction.TILT_LEFT_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 19,
+      "symbol": "BiometryConstant.LivenessAction.TILT_RIGHT_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 20,
+      "symbol": "BiometryConstant.LivenessAction.BLINK_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 21,
+      "symbol": "BiometryConstant.LivenessAction.OPEN_MOUTH_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 22,
+      "symbol": "BiometryConstant.LivenessAction.SAY_WORD_INDEX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/BiometryConstant.swift",
+      "line": 25,
+      "symbol": "BiometryConstant.action",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/Endpoint.swift",
+      "line": 8,
+      "symbol": "Endpoint",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/Endpoint.swift",
+      "line": 10,
+      "symbol": "Endpoint.biometryConstants",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/Endpoint.swift",
+      "line": 10,
+      "symbol": "Endpoint.checkAccess(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/Endpoint.swift",
+      "line": 12,
+      "symbol": "Endpoint.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/Endpoint.swift",
+      "line": 14,
+      "symbol": "Endpoint.serverUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/Endpoint.swift",
+      "line": 16,
+      "symbol": "Endpoint.apiUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkError.swift",
+      "line": 8,
+      "symbol": "NetworkError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkError.swift",
+      "line": 10,
+      "symbol": "NetworkError.badResponse(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkError.swift",
+      "line": 11,
+      "symbol": "NetworkError.corruptedData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 10,
+      "symbol": "NetworkManager",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 12,
+      "symbol": "NetworkManager.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 14,
+      "symbol": "NetworkManager.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 16,
+      "symbol": "NetworkManager.getChallenges(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 22,
+      "symbol": "NetworkManager.checkAccess(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 31,
+      "symbol": "NetworkManager.createRequest(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 40,
+      "symbol": "NetworkManager.executeRequest(request:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/NetworkManager.swift",
+      "line": 65,
+      "symbol": "NetworkManager.executeRequest(request:completion:).completionOnMain(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/UIColor+extension.swift",
+      "line": 22,
+      "symbol": "UIColor.init(hex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/UIColor+extension.swift",
+      "line": 40,
+      "symbol": "UIColor.bg_black",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/UIColor+extension.swift",
+      "line": 42,
+      "symbol": "UIColor.bg_primary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/UIColor+extension.swift",
+      "line": 44,
+      "symbol": "UIColor.sys_green",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Desktop/Liveness/RBKLiveness/Utils/UIColor+extension.swift",
+      "line": 46,
+      "symbol": "UIColor.sys_grey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Library/Developer/Xcode/DerivedData/RBKLiveness-gvhcsetwjwyplxfvbiatjkzrxigt/Build/Intermediates.noindex/RBKLiveness.build/Debug-iphoneos/RBKLiveness.build/DerivedSources/GeneratedAssetSymbols.swift",
+      "line": 18,
+      "symbol": "ResourceBundleClass",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhanibeklukpanov/Library/Developer/Xcode/DerivedData/RBKLiveness-gvhcsetwjwyplxfvbiatjkzrxigt/Build/Intermediates.noindex/RBKLiveness.build/Debug-iphoneos/RBKLiveness.build/DerivedSources/GeneratedAssetSymbols.swift",
+      "line": 19,
+      "symbol": "resourceBundle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/zhanibeklukpanov/Desktop/Liveness"
+}
