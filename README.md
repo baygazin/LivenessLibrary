@@ -18,22 +18,9 @@ For iOS Obj-C projects:
 pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag => '1.2.4'
 ```
 
-## Usage
+## Documentation
+- [x] [Complete Documentation](https://salmik.github.io/LivenessLibrary/)
 
-To register your app use the RBKLivenessApplication.register() method:
-
-```swift
-func application(
-    _ application: UIApplication,
-    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
-) -> Bool {
-    RBKLivenessApplication.register()
-
-    // your code...
-
-    return true
-}
-```
 
 You can create a view controller that will capture face:
 
