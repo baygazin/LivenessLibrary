@@ -22,6 +22,7 @@ pod 'RBKLiveness', :git => 'https://github.com/BankRBK/RBKLiveness.git', :tag =>
 - [x] [Complete Documentation](https://salmik.github.io/LivenessLibrary/)
 
 
+## Usage
 You can create a view controller that will capture face:
 
 ```swift
